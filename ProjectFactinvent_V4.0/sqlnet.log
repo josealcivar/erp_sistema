@@ -1,0 +1,720 @@
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 12-OCT-2016 20:13:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 12-OCT-2016 20:13:44
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 12-OCT-2016 20:13:52
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 12-OCT-2016 20:14:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 12-OCT-2016 20:14:42
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 12-OCT-2016 20:16:17
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 15:16:34
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 15:17:18
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 15:31:47
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 15:33:23
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 15:34:34
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 15:41:11
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 15:43:39
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 15:45:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 15:46:54
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 15:53:49
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 15:58:58
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 16:01:56
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 16:02:36
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 16:10:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 16:16:55
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 16:18:50
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 16:21:06
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 16:25:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 16:27:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 16:27:48
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 16:28:31
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 16:30:06
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 21-OCT-2016 16:31:14
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 02-NOV-2016 02:43:27
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 02-NOV-2016 02:43:43
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 02-NOV-2016 02:43:46
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 11-NOV-2016 16:18:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 11-NOV-2016 16:20:20
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 11-NOV-2016 16:20:46
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 11-NOV-2016 16:21:58
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 14-NOV-2016 00:32:06
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 14-NOV-2016 00:33:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 14-NOV-2016 00:35:35
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=JoseAndre)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Sybase\PowerBuilder 12.0\PB120.EXE)(HOST=JOSEANDRE)(USER=jose))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 14-NOV-2016 00:44:52
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
